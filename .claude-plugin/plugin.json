@@ -1,0 +1,11 @@
+{
+  "name": "material-vivid",
+  "version": "1.0.0",
+  "description": "FMS 물류 플랫폼 전용 Material Vivid 디자인 시스템",
+  "skills": [
+    {
+      "name": "material-vivid",
+      "path": "SKILL.md"
+    }
+  ]
+}
